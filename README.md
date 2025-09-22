@@ -1,5 +1,7 @@
 # portal-bisnis
-Portal Bisnis - Aplikasi Manajemen Operasional Terpadu dengan 4 Modul (React + Tailwind)
+Portal Bisnis - Aplikasi Manajemen Operasional Terpadu dengan 4 Modul (React + Tailwind).
+
+
 git clone https://github.com/username/portal-bisnis.git
 cd portal-bisnis
 📁 STRUKTUR REPOSITORY LENGKAP:
