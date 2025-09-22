@@ -3,9 +3,9 @@ Portal Bisnis - Aplikasi Manajemen Operasional Terpadu dengan 4 Modul (React + T
 
 
 git clone https://github.com/username/portal-bisnis.git
+
 cd portal-bisnis
-📁 STRUKTUR REPOSITORY LENGKAP:
-Mari saya berikan semua file yang perlu dibuat:
+
 
 ROOT FILES:
 README.md:
